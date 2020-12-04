@@ -1,0 +1,173 @@
+
+body {
+
+	background: red;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+					
+	}
+
+.head1 {
+
+	background-color: red;
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.space {
+
+	background: white;
+	padding: 23	px;
+}
+
+
+.nav a {
+
+	text-decoration: none;
+	color: black;
+	display: block;
+
+}
+
+.nav > ul{
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+.nav > ul > li > a {
+
+	padding: 10px;
+	background: lightgrey;
+
+}
+
+.nav > ul > li > a:hover{
+
+	background: #173459;
+	color: #f8f9f9;
+
+}
+
+/*.nav .active {
+
+	background: #173459;
+	color: #f8f9f9;
+
+}
+*/
+.nav li {
+
+	float: right;
+	width: 12.8%;
+	text-align: center;
+	border-right: 1px solid #333;
+	margin-right: 40px;
+}
+
+.nav li:last-child {
+
+	border: none;
+}	
+
+.Bio {
+
+	width: 33.3%;
+	height: 75.8%;
+	float: left;
+	background: black;
+	text-align: center;
+	color: white;
+
+}
+
+.clr1 {
+
+	width: 91%;
+	height: 89%;
+	float: center;
+	background: white;
+	text-align: center;
+	color: black;
+	padding: 10px;
+	margin-right: 20px;
+	margin-left: 10px;
+
+}
+
+
+.NewsFeed {
+
+	width: 33.3%;
+	height: 82%;
+	float: left;
+	background: black;
+	text-align: center;
+	color: white;
+	}
+
+.clr2 {
+
+	width: 91%;
+	height: 150px;
+	float: center;
+	background: white;
+	text-align: right;
+	color: black;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 20px;
+
+}
+
+
+.Message{
+
+	width: 33.3%;
+	height: 70%;
+	float: left;
+	background: black;
+	text-align: center;
+	color: white;
+}
+
+.clr3 {
+
+	width: 91%;
+	height: 190px;
+	float: center;
+	background: white;
+	text-align: center;
+	color: black;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 20px;
+
+}
+.online{
+
+	text-align: right;
+	font-size: 30px;
+	margin-right: 400px
+
+
+}
+img {
+
+	width:100px;
+	border-radius: 70%;
+}
+.clr4{
+
+	float: left;
+}
+.clr5{
+
+	float: left;
+	height: 12px;
+}
